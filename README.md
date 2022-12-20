@@ -1,6 +1,6 @@
 # IRON-MAN Management System
 
-<br>A Java Project that can help our hard-working IRON MEN to manage their activities.<br>
+<br>I have created a project using Java that can help our hard-working IRON MEN to manage their daily activities.<br>
 
 Username = shivam       
 Password = 12345 <br><br>         
